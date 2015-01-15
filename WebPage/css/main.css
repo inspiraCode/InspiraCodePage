@@ -280,7 +280,8 @@ input.search-form:hover {
 }
 .navbar-brand img
 {
-  width: 90px;
+  width: 100px;
+  margin-top: -12px;
 }
 .navbar-inverse .navbar-nav > li > a {
   padding: 5px 12px;
